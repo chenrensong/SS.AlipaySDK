@@ -1,0 +1,41 @@
+using System;
+using System.Xml.Serialization;
+
+namespace SS.AlipaySDK.Response
+{
+    /// <summary>
+    /// DatadigitalFincloudGeneralsaasFaceSourceCertifyResponse.
+    /// </summary>
+    public class DatadigitalFincloudGeneralsaasFaceSourceCertifyResponse : AopResponse
+    {
+        /// <summary>
+        /// 人脸认证单据号，调用后续OpenAPI（datadigital.fincloud.generalsaas.face.source.query ）时传入，用来查询结果
+        /// </summary>
+        [XmlElement("certify_no")]
+        public string CertifyNo { get; set; }
+
+        /// <summary>
+        /// 认证不通过原因
+        /// </summary>
+        [XmlElement("mismatch_reason")]
+        public string MismatchReason { get; set; }
+
+        /// <summary>
+        /// T：通过；F：不通过
+        /// </summary>
+        [XmlElement("passed")]
+        public string Passed { get; set; }
+
+        /// <summary>
+        /// double值，人脸图片质量分
+        /// </summary>
+        [XmlElement("quality")]
+        public string Quality { get; set; }
+
+        /// <summary>
+        /// double值，活体检测结果分数
+        /// </summary>
+        [XmlElement("score")]
+        public string Score { get; set; }
+    }
+}
