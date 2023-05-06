@@ -2,7 +2,7 @@ using System;
 using System.Xml.Serialization;
 using System.Collections.Generic;
 
-namespace SS.AlipaySDKaySDK.Response
+namespace SS.AlipaySDK.Response
 {
     /// <summary>
     /// AntProdpaasGrmcoreSrInvalidResponse.

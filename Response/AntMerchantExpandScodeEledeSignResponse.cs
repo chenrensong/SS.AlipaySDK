@@ -1,8 +1,8 @@
 using System;
 using System.Xml.Serialization;
-using SS.AlipaySDKaySDK.Domain;
+using SS.AlipaySDK.Domain;
 
-namespace SS.AlipaySDKaySDK.Response
+namespace SS.AlipaySDK.Response
 {
     /// <summary>
     /// AntMerchantExpandScodeEledeSignResponse.

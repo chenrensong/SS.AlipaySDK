@@ -1,9 +1,9 @@
 using System;
-using SS.AlipaySDKaySDK.Domain;
+using SS.AlipaySDK.Domain;
 using System.Collections.Generic;
-using SS.AlipaySDKaySDK.Response;
+using SS.AlipaySDK.Response;
 
-namespace SS.AlipaySDKaySDK.Request
+namespace SS.AlipaySDK.Request
 {
     /// <summary>
     /// AOP API: ant.merchant.expand.shop.create

@@ -1,7 +1,7 @@
 using System;
 using System.Xml.Serialization;
 
-namespace SS.AlipaySDKaySDK.Response
+namespace SS.AlipaySDK.Response
 {
     /// <summary>
     /// AntMerchantExpandStoreShopserviceModifyResponse.
