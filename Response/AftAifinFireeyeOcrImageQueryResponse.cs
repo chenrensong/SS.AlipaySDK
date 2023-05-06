@@ -1,8 +1,8 @@
 using System;
 using System.Xml.Serialization;
-using Aop.Api.Domain;
+using SS.AlipaySDK.Domain;
 
-namespace Aop.Api.Response
+namespace SS.AlipaySDK.Response
 {
     /// <summary>
     /// AftAifinFireeyeOcrImageQueryResponse.

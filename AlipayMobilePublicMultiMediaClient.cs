@@ -1,11 +1,11 @@
 ﻿using System;
 using System.IO;
 using System.Text;
-using Aop.Api.Parser;
-using Aop.Api.Util;
+using SS.AlipaySDK.Parser;
+using SS.AlipaySDK.Util;
 using System.Net;
 
-namespace Aop.Api
+namespace SS.AlipaySDK
 {
     public class AlipayMobilePublicMultiMediaClient : IAopClient
     {

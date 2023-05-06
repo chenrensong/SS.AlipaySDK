@@ -1,7 +1,7 @@
 using System;
 using System.Xml.Serialization;
 
-namespace Aop.Api.Domain
+namespace SS.AlipaySDK.Domain
 {
     /// <summary>
     /// CaSystemSignAreaRequest Data Structure.

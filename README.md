@@ -18,4 +18,4 @@ OpenAPI规范（OAS），是定义一个标准的、与具体编程语言无关�
 
 利用支付宝提供的OpenAPI描述文件，您可以用代码生成工具来自动生成各种编程语言代码，用自动测试工具进行测试等等。
 
-v3 SDK是基于 [OpenAPI描述文件](v3/api/openapi.yaml) 、使用 [OpenAPI Generator](https://openapi-generator.tech) 生成的。
+SDK是基于 [OpenAPI描述文件](openapi.json) 、使用 [OpenAPI Generator](https://openapi-generator.tech) 生成的。

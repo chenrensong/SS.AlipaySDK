@@ -2,7 +2,7 @@ using System;
 using System.Xml.Serialization;
 using System.Collections.Generic;
 
-namespace Aop.Api.Response
+namespace SS.AlipaySDK.Response
 {
     /// <summary>
     /// AlipayAccountCashpoolBasicQueryResponse.

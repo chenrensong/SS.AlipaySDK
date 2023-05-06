@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aop.Api.Parser
+namespace SS.AlipaySDK.Parser
 {
     class EncryptParseItem
     {

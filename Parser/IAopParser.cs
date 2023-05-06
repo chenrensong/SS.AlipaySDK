@@ -1,4 +1,4 @@
-﻿namespace Aop.Api.Parser
+﻿namespace SS.AlipaySDK.Parser
 {
     /// <summary>
     /// AOP API响应解释器接口。响应格式可以是XML, JSON等等。

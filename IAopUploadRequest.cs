@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Aop.Api.Util;
+using SS.AlipaySDK.Util;
 
-namespace Aop.Api
+namespace SS.AlipaySDK
 {
     /// <summary>
     /// AOP上传请求接口，支持同时上传多个文件。

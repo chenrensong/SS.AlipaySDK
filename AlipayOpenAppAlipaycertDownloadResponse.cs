@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace Aop.Api
+namespace SS.AlipaySDK
 {
     public class AlipayOpenAppAlipaycertDownloadResponse : AopResponse
     {

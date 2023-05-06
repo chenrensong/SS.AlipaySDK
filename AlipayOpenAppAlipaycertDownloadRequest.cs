@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Aop.Api
+namespace SS.AlipaySDK
 {
     public class AlipayOpenAppAlipaycertDownloadRequest : IAopRequest<AlipayOpenAppAlipaycertDownloadResponse>
     {

@@ -1,4 +1,4 @@
-namespace Aop.Api
+namespace SS.AlipaySDK
 {
     /// <summary>
     /// AlipayMobilePublicMultiMediaDownloadResponse.

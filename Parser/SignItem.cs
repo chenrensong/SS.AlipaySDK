@@ -1,4 +1,4 @@
-﻿namespace Aop.Api.Parser
+﻿namespace SS.AlipaySDK.Parser
 
 {
     public class SignItem

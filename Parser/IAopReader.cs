@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace Aop.Api.Parser
+namespace SS.AlipaySDK.Parser
 {
     public delegate object DAopConvert(IAopReader reader, Type type);
 

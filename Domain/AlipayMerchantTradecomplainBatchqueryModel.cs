@@ -2,7 +2,7 @@ using System;
 using System.Xml.Serialization;
 using System.Collections.Generic;
 
-namespace Aop.Api.Domain
+namespace SS.AlipaySDK.Domain
 {
     /// <summary>
     /// AlipayMerchantTradecomplainBatchqueryModel Data Structure.
