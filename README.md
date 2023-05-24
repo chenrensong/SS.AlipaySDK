@@ -1,6 +1,6 @@
 # SS.AlipaySDK
 
-[![NuGet Version](https://img.shields.io/nuget/v/ss.alipay.svg?style=flat)](https://www.nuget.org/packages?q=SS.AlipaySDK)
+[![NuGet Version](https://img.shields.io/nuget/v/SS.AlipaySDK.svg?style=flat)](https://www.nuget.org/packages?q=SS.AlipaySDK)
 
 SS.AlipaySDK是一个基于支付宝开放平台官方SDK的项目，使用 .Net Standard 2.0开发，支持 .Net Framework 4.6.1，.Net Core 2.0及以上版本。该SDK可以帮助您自动满足支付宝能力调用过程中所需的证书校验、加签、验签、发送HTTP请求等非功能性要求。更多有关支付宝开放平台协议的内容，可前往 [支付宝开发文档](https://opendocs.alipay.com/open-v3/054kaq) 了解更多。
 
